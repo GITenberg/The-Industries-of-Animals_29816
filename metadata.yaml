@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34193'
     url: http://www.gutenberg.org/2009/agents/34193
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29816#The-Industries-of-Animals
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild
